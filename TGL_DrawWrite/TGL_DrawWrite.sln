@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F295B9A1-A098-E187-7120-1F08205E5B12}") = "TGL_DrawWrite", "Assembly-CSharp-firstpass.csproj", "{62659441-2647-730C-44AA-D28BB929378F}"
+EndProject
+Project("{F295B9A1-A098-E187-7120-1F08205E5B12}") = "TGL_DrawWrite", "Assembly-CSharp.csproj", "{09CB9C29-921F-61D8-5FBF-59B9BE36582A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62659441-2647-730C-44AA-D28BB929378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62659441-2647-730C-44AA-D28BB929378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62659441-2647-730C-44AA-D28BB929378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62659441-2647-730C-44AA-D28BB929378F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CB9C29-921F-61D8-5FBF-59B9BE36582A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CB9C29-921F-61D8-5FBF-59B9BE36582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CB9C29-921F-61D8-5FBF-59B9BE36582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CB9C29-921F-61D8-5FBF-59B9BE36582A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
